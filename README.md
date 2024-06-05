@@ -23,3 +23,7 @@
 - Container for our piece of data
 - Whenever we want that data, we can use the variable.
 - Can change the variable value if wanted.
+
+#### REPL
+
+-Read, Evaluate, Print Long.
