@@ -18,6 +18,6 @@ num2 = 4
 print(num1 - num2)
 
 # String interpolation
-print("The total addition is",total)
-# print("THe total additon is {total}") - weird one
+print("The total addition is" total)
+print(f"The total additon is {total}") 
 
