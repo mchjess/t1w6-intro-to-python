@@ -30,7 +30,32 @@
 # print(type(4+7j))
 
 # Operators + - * / =
-print(4*5+6)
-print(15/3)
-print(15/4)
-print(7%2)
+# print(4*5+6)
+# print(15/3)
+# print(15/4)
+# print(7%2)
+
+# String concatenation, addition, join
+# print("Hello" + "World")
+# print(5 + 5)
+# print("3" + "5") 
+# Prints as 35 as both integers are treated as text by the program.
+
+# Boolean
+True
+False
+0 # False value
+
+print(type (False))
+print(bool(0))
+
+# Comparison operators <, >, <=, =>, !=
+print(2 < 3)
+print(5 <= 5)
+print("Jess" == "Jess")
+
+
+# Logical operators and, or, not
+print(True and False) # AND return True when both operators are True
+print(False or True) # OR returns True, when one or both of the operators are True
+print(not False)
