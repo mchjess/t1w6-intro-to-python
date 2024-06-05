@@ -26,5 +26,11 @@
 
 # complex (imaginary numbers) -- not necessary to understand for the course.
 
-2+3j
-print(type(4+7j))
+# 2+3j
+# print(type(4+7j))
+
+# Operators + - * / =
+print(4*5+6)
+print(15/3)
+print(15/4)
+print(7%2)
